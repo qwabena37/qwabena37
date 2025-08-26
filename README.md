@@ -1,8 +1,18 @@
-<h1>Hi, I'm Kwabena! <br/><a href="https://github.com/qwabena37/">A Junior Software Engineer</a>, <a href="http://www.linkedin.com/in/james-appiah-926837164">Hardware Professional</a>, <a href="https://sites.google.com/view/jameskyeiappiah/home">Graphic Designer</a></h1>
+<h1>Hi, I'm Kwabena! <br/>
+![Banner Image](your_banner_image_url_here)<br<a href="https://github.com/qwabena37/">A Junior Software Engineer</a>, <a href="http://www.linkedin.com/in/james-appiah-926837164">Hardware Professional</a>, <a href="https://sites.google.com/view/jameskyeiappiah/home">Graphic Designer</a></h1>
 <h2>Programming Skills<h2/>
   Efficient with Front-end and Back-end Development Tools like HTML&CSS, JavaScript, Python, React, C++, PHP, MongoDB etc <br>
   I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>My Skills 🧠</h2>
+
+![PYTHON](https://img.shields.io/badge/PYTHON-brown) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+  <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> 
   - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
