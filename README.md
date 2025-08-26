@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kwabena! <br/>
+<h1>Hi, I'm Kwabena! <br/> <h5>A Software Engineer Learner @ALX<h5>
 <br> <a href="https://github.com/qwabena37/">A Junior Software Engineer</a>, <a href="http://www.linkedin.com/in/james-appiah-926837164">Hardware Professional</a>, <a href="https://sites.google.com/view/jameskyeiappiah/home">Graphic Designer</a></h1>
 <h2>Programming Skills<h2/>
   Efficient with Front-end and Back-end Development Tools like HTML&CSS, JavaScript, Python, React, C++, PHP, MongoDB etc <br>
