@@ -19,6 +19,7 @@
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
   - [Webe Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/9bf6adc48b8f12d5c78083a1eef7730dc1387de3#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
 <h2>📜Certifications </h2>
+  - [ALX Professional Foundation](https://savanna.alxafrica.com/certificates/T3NM2nysmS) <br>
   - [Amazon Q Introduction](Amazon Q studentPortal) <br>
   - [Microsoft Hour of Code](Microsoft Minecraft)
 <h2>📺 Popular YouTube Videos</h2>
