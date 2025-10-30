@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-339933?style=flat-square&logo=figma&logoColor=pink)
-![MySQL](https://img.shields.io/badge/-SQL-339933?style=flat-square&logo=MySQL&logoColor=purple)
+![MySQL](https://img.shields.io/badge/-SQL-339944?style=flat-square&logo=MySQL&logoColor=purple)
 
   <h2>👨‍💻 Software Development Projects:</h2>
 
