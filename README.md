@@ -3,7 +3,7 @@
 <h2>ABOUT ME<h2/>
   I am a dedicated software and hardware engineer with a strong passion for technology and innovation. With a solid foundation
   in UI/UX Design, Programming and system design, I excel at solving complex problems and transforming ideas into functional solutions.
-  Efficient with Front-end and Back-end Development Tools, experienced at collaborating with other engineers to deliver.  <br>
+  Efficient with Front-end and Back-end Development Tools, experienced at collaborating with other engineers to deliver.
   I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
 <h2>My Skills 🧠</h2>
 
