@@ -1,8 +1,8 @@
 <h1>Hi, I'm Kwabena! <br/> A Software Engineer Learner @ALX
 <br> <a href="https://github.com/qwabena37/">An Uprising Contemporary Software Engineer ||</a> <a href="http://www.linkedin.com/in/james-appiah-926837164">Computer Hardware Engineer</a> <a href="https://sites.google.com/view/jameskyeiappiah/home">|| Graphic Designer</a></h1>
 <h2>ABOUT ME<h2/>
-  I am a dedicated software and hardware engineer with a strong passion for technology and innovation. With a solid foundation  <br>
-  in UI/UX Design, Programming and system design, I excel at solving complex problems and transforming ideas into functional solutions.  <br>
+  I am a dedicated software and hardware engineer with a strong passion for technology and innovation. With a solid foundation
+  in UI/UX Design, Programming and system design, I excel at solving complex problems and transforming ideas into functional solutions.
   Efficient with Front-end and Back-end Development Tools, experienced at collaborating with other engineers to deliver.  <br>
   I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
 <h2>My Skills 🧠</h2>
