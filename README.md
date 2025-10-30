@@ -5,7 +5,7 @@
   in UI/UX Design, Programming and system design, I excel at solving complex problems and transforming ideas into functional solutions.
   Efficient with Front-end and Back-end Development Tools, experienced at collaborating with other engineers to deliver.
   I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
-<h2>My Skills 🧠</h2>
+<h2>My Techincal | Programming Skills 🧠</h2>
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-brown) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,6 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-339933?style=flat-square&logo=node.js&logoColor=white)
 
   <h2>👨‍💻 Software Development Projects:</h2>
 
