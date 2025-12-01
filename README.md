@@ -8,6 +8,7 @@
 <h2>My Techincal | Programming Skills 🧠</h2>
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-brown) 
+![DJANGO](https://img.shields.io/badge/DJANGO-green) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=oval-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=oval-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=oval-square&logo=javascript&logoColor=black)
