@@ -15,7 +15,7 @@
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-purple) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=oval-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=oval-square&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-339933?style=oval-square&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-339933?style=oval-square&logo=figma&logoColor=brown)
 ![MySQL](https://img.shields.io/badge/-SQL-339933?style=oval-square&logo=MySQL&logoColor=white)
 
   <h2>👨‍💻 Software Development Projects:</h2>
