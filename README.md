@@ -22,10 +22,11 @@
 
   <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b> 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Job_Board_Backend_API_ Development](https://github.com/qwabena37/airbnb-clone-project)
   - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
-  - [Web Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/9bf6adc48b8f12d5c78083a1eef7730dc1387de3#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
+  - [Web Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/)
 <h2>📜Certifications </h2>
   - [ALX Professional Foundation](https://savanna.alxafrica.com/certificates/T3NM2nysmS) <br>
   - [Amazon Q Introduction](Amazon Q studentPortal) <br>
