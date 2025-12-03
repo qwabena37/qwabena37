@@ -9,14 +9,14 @@
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-brown) 
 ![DJANGO](https://img.shields.io/badge/DJANGO-green) 
+![MySQL](https://img.shields.io/badge/-SQL-339933?style=oval-square&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=oval-square&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-339933?style=oval-square&logo=figma&logoColor=brown)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=oval-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=oval-square&logo=javascript&logoColor=black)
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-purple) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=oval-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=oval-square&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-339933?style=oval-square&logo=figma&logoColor=brown)
-![MySQL](https://img.shields.io/badge/-SQL-339933?style=oval-square&logo=MySQL&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-blue) 
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-purple) 
 
