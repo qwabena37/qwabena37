@@ -26,7 +26,7 @@
   - [Job_Board_Backend_API_ Development](github.com/qwabena37/Job_Board_Platform_Backend)
   - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
-  - [Web Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/)
+  - [Web Development with HTML&CSS](github.com/qwabena37/alx-fe-reactjs)
 <h2>📜Certifications </h2>
   - [ALX Professional Foundation](https://savanna.alxafrica.com/certificates/T3NM2nysmS) <br>
   - [Amazon Q Introduction](Amazon Q studentPortal) <br>
@@ -34,7 +34,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](http://www.youtube.com/@jamesappiah5346)
-- [Hello World ](http://www.youtube.com/@jamesappiah5346)
+- [Job_Board_API Description](http://www.youtube.com/@jamesappiah5346)
 
 <h2> 🤳 Connect with me:</h2>
 
