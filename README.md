@@ -23,7 +23,7 @@
   <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Job_Board_Backend_API_ Development](https://github.com/qwabena37/airbnb-clone-project)
+  - [Job_Board_Backend_API_ Development](github.com/qwabena37/Job_Board_Platform_Backend)
   - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
   - [Web Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/)
