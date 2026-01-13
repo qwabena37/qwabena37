@@ -1,10 +1,13 @@
 <h1>Hi, I'm Kwabena! <br/> A Software Engineer Learner @ALX. <br/>Specializing in Backend Development and DevOps
 <br> <a href="https://github.com/qwabena37/">An Innovative and Contemporary Software Engineer ||</a> <a href="http://www.linkedin.com/in/james-appiah-926837164">Computer Hardware Engineer</a> <a href="https://sites.google.com/view/jameskyeiappiah/home">|| Graphic Designer</a></h1>
 <h2>ABOUT ME<h2/>
-  I am a dedicated software and hardware engineer with a strong passion for technology and innovation. With a solid foundation
-  in UI/UX Design, Programming and system design, I excel at solving complex problems and transforming ideas into functional solutions.
-  Efficient with Front-end and Back-end Development Tools, experienced at collaborating with other engineers to deliver.
-  I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
+👋 About Me
+
+I am a software and hardware engineer with a strong passion for technology, innovation, and problem-solving. I have a solid foundation in UI/UX design, programming, and system architecture, and I enjoy transforming ideas into scalable, real-world solutions.
+
+I am proficient in both frontend and backend development, with experience collaborating in cross-functional teams to design, build, and deliver reliable software systems. I value clean code, efficient systems, and continuous improvement.
+
+Driven by a strong desire to grow in the software engineering ecosystem, I actively learn from experienced engineers and embrace best practices to refine my technical and professional skills.
 <h2>My Techincal | Programming Skills 🧠</h2>
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-brown) 
